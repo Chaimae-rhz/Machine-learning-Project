@@ -1,4 +1,4 @@
-donc voila README - 🤖🎵💉 Projet Intelligence Artificielle : Classification Spotify & Diabète
+README - 🤖🎵💉 Projet Intelligence Artificielle : Classification Spotify & Diabète
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
